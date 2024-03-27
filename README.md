@@ -1,5 +1,5 @@
 ![logo](https://github.com/amritjeetghose/amritjeetghose/blob/main/Black%20Full%20Photo%20Technology%20Facebook%20Cover-2.png)
-<h1 align="center">Hi 👋, I'm Amritjeet Ghose</h1>
+<h1 align="center">Hi 👋, I'm Amritjeet</h1>
 <h3 align="center">Full Stack Web Developer with a decent history of more than 7 years in developing and managing applications along with automating the deployment processes to deploy on cloud platforms smoothly.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritjeetghose&label=Profile%20views&color=0e75b6&style=flat" alt="amritjeetghose" /> </p>
